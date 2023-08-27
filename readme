@@ -19,5 +19,3 @@ ps -ef|grep jenkins
 
 netstat -tunlp
 tcp6       0      0 :::8080                 :::*                    LISTEN      4358/java           
-hello
-heyy
