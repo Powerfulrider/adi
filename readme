@@ -1,4 +1,4 @@
-hello
+heyy Aditya
 Updtaed the readme file
 Jenkins instrallation steps:
 
@@ -14,7 +14,7 @@ Jenkins instrallation steps:
    10  apt update
    11  apt install jenkins -y
    12  systemctl status jenkins
-   13  history
+   13  history of my team
 
 
 ps -ef|grep jenkins
